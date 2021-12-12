@@ -9,6 +9,19 @@
  * Copyright (C) 2018 http://alvarotrigo.com/fullPage - A project by Alvaro Trigo
  */
 
+@media (max-width: 900px) {
+    .discount{
+        margin-left: 0px !important;
+        font-size: 22px !important;
+    }
+
+    .example{
+        margin-right: auto !important;
+        margin-left: auto !important;
+    }
+}
+
+
 .fp-enabled body,
 html.fp-enabled {
     margin: 0;
